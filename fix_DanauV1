@@ -1,0 +1,80 @@
+{
+    "results": [
+        {
+            "name": {
+                "title": "Danau1",
+                "first": "Situ",
+                "last": "Cileunca"
+            },
+            "email": "situ.cileunca",
+            "jam": "07.30 – 17.00 WIB",
+            "picture": {
+                "thumbnail": "https://firebasestorage.googleapis.com/v0/b/travelme-aa9a6.appspot.com/o/danau1.jpg?alt=media&token=31bca51c-1f91-40df-b0ec-dd73912796bc"
+            },
+            "nat": "BR",
+			"key": "item1"
+        },
+           {
+            "name": {
+                "title": "Danau2",
+                "first": "Situ",
+                "last": "Patenggang"
+            },
+            "email": "situ.patenggang",
+            "jam": "09.00 - 17.00 WIB",
+            "picture": {
+                "thumbnail": "https://firebasestorage.googleapis.com/v0/b/travelme-aa9a6.appspot.com/o/Danau%2FDanau2.1.jpg?alt=media&token=b7813aaa-9210-48a1-acee-0cdbedd1b7c7"
+            },
+            "nat": "No",
+			"key": "item2"
+      },
+      {
+       "name": {
+           "title": "Danau3",
+           "first": "Situ",
+           "last": "Ciburuy"
+       },
+       "email": "situ.ciburuy",
+       "jam": "24 jam",
+       "picture": {
+           "thumbnail": "https://firebasestorage.googleapis.com/v0/b/travelme-aa9a6.appspot.com/o/Danau%2FDanau3%2FDanau3.1.jpg?alt=media&token=bcb91ff6-3fee-40f6-a27a-417642fa48de"
+       },
+       "nat": "No",
+ "key": "item3"
+  },
+  {
+  "name": {
+      "title": "Danau4",
+      "first": "Sanghyang",
+      "last": "Heuleut"
+  },
+  "email": "sanghyang.heuleut",
+  "jam": "08.00 – 16.00 WIB",
+  "picture": {
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/travelme-aa9a6.appspot.com/o/Danau%2FDanau4%2FDanau4.1.jpg?alt=media&token=3a653529-9973-4ebe-8df2-3b2636ef5434"
+  },
+  "nat": "No",
+"key": "item4"
+},
+{
+"name": {
+    "title": "Danau5",
+    "first": "Danau",
+    "last": "Kampung Tulip"
+},
+"email": "danau.kampung.tulip",
+"jam": "09.00 – 17.00 WIB",
+"picture": {
+    "thumbnail": "https://firebasestorage.googleapis.com/v0/b/travelme-aa9a6.appspot.com/o/Danau%2FDanau5%2FDanau5.1.jpg?alt=media&token=7cc9e2c6-29c4-48f3-b748-c1026c29a278"
+},
+"nat": "No",
+"key": "item5"
+}
+    ],
+    "info": {
+        "seed": "1",
+        "results": 20,
+        "page": 1,
+        "version": "1.3"
+    }
+}
