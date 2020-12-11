@@ -4,8 +4,8 @@
             "gender": "male",
             "name": {
                 "title": "Mr",
-                "first": "Janique",
-                "last": "Costa"
+                "first": "Tangkuban",
+                "last": "Perahu"
             },
             "location": {
                 "street": {
@@ -25,7 +25,7 @@
                     "description": "Brussels, Copenhagen, Madrid, Paris"
                 }
             },
-            "email": "janique.costa@example.com",
+            "email": "tangkuban.perahu@example.com",
             "login": {
                 "uuid": "827d20c0-fa56-40aa-a2de-7df6d682d269",
                 "username": "smalltiger544",
@@ -52,7 +52,7 @@
             "picture": {
                 "large": "https://randomuser.me/api/portraits/men/42.jpg",
                 "medium": "https://randomuser.me/api/portraits/med/men/42.jpg",
-                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/42.jpg"
+                "thumbnail": "https://firebasestorage.googleapis.com/v0/b/travelme-aa9a6.appspot.com/o/Air_Terjun1.jpg?alt=media&token=d132c250-3d1b-4ac8-8292-e9a893ebe541"
             },
             "nat": "BR"
         },
