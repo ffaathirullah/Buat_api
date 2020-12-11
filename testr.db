@@ -1,0 +1,80 @@
+{
+    "results": [
+        {
+            "name": {
+                "title": "Air_Terjun1",
+                "first": "Curug",
+                "last": "Dago"
+            },
+            "email": "curug.dago",
+            "jam": "08:00 – 17:00 WIB",
+            "picture": {
+                "thumbnail": "https://firebasestorage.googleapis.com/v0/b/travelme-aa9a6.appspot.com/o/Air_Terjun1.jpg?alt=media&token=d132c250-3d1b-4ac8-8292-e9a893ebe541"
+            },
+            "nat": "BR",
+			"key": "item1"
+        },
+           {
+            "name": {
+                "title": "Air_Terjun2",
+                "first": "Curug Tilu",
+                "last": "Leuwi Opat"
+            },
+            "email": "curug.tilu.leuwi.opat",
+            "jam": "06.00 – 18.00 WIB",
+            "picture": {
+                "thumbnail": "https://firebasestorage.googleapis.com/v0/b/travelme-aa9a6.appspot.com/o/Air_Terjun%2FAir_Terjun2%2FAir_Terjun2.1.jpg?alt=media&token=4432bf19-3116-4ba8-aa8b-f9b21dcc0731"
+            },
+            "nat": "No",
+			"key": "item2"
+      },
+      {
+       "name": {
+           "title": "Air_Terjun3",
+           "first": "Curug ",
+           "last": "Malela"
+       },
+       "email": "curug.malela",
+       "jam": "08.00-16.00 WIB",
+       "picture": {
+           "thumbnail": "https://firebasestorage.googleapis.com/v0/b/travelme-aa9a6.appspot.com/o/Air_Terjun%2FAir_Terjun3%2FAir_Terjun3.1.jpg?alt=media&token=6abbffde-1dab-47d2-9474-8c9ae60b6652"
+       },
+       "nat": "No",
+ "key": "item3"
+  },
+  {
+  "name": {
+      "title": "Air_Terjun4",
+      "first": "Curug ",
+      "last": "Maribaya"
+  },
+  "email": "curug.maribaya",
+  "jam": "08.00 - 18.00 WIB",
+  "picture": {
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/travelme-aa9a6.appspot.com/o/Air_Terjun%2FAir_Terjun4%2FAir_Terjun4.1.jpg?alt=media&token=9ad75c2e-8b64-48e3-aefd-4b95d4ae5b2d"
+  },
+  "nat": "No",
+"key": "item4"
+},
+{
+"name": {
+    "title": "Air_Terjun5",
+    "first": "Curug ",
+    "last": "Batu Templek"
+},
+"email": "curug.batu.templek",
+"jam": "09.00 - 17.00 WIB",
+"picture": {
+    "thumbnail": "https://firebasestorage.googleapis.com/v0/b/travelme-aa9a6.appspot.com/o/Air_Terjun%2FAir_Terjun5%2FAir_Terjun5.1.jpg?alt=media&token=b1adc94a-931d-4103-a248-f9b18136d728"
+},
+"nat": "No",
+"key": "item5"
+}
+    ],
+    "info": {
+        "seed": "1",
+        "results": 20,
+        "page": 1,
+        "version": "1.3"
+    }
+}
