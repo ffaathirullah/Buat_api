@@ -1,0 +1,38 @@
+{
+    "results": [
+        {
+            "name": {
+                "title": "Air_Terjun1",
+                "first": "Tangkuban",
+                "last": "Perahu"
+            },
+            "email": "tangkuban.perahu@example.com",
+            "jam": "07.30 - 17.00 WIB",
+            "picture": {
+                "thumbnail": "https://firebasestorage.googleapis.com/v0/b/travelme-aa9a6.appspot.com/o/Air_Terjun1.jpg?alt=media&token=d132c250-3d1b-4ac8-8292-e9a893ebe541"
+            },
+            "nat": "BR",
+			"key": "item1"
+        },
+           {
+            "name": {
+                "title": "Hutan_Raya1",
+                "first": "Taman Hutan Raya",
+                "last": "Ir.H.Djuanda"
+            },
+            "email": "tamanhutanraya.irhdjuanda@example.com",
+            "jam": "07.30 - 17.00 WIB",
+            "picture": {
+                "thumbnail": "https://firebasestorage.googleapis.com/v0/b/travelme-aa9a6.appspot.com/o/danau1.jpg?alt=media&token=31bca51c-1f91-40df-b0ec-dd73912796bc"
+            },
+            "nat": "No",
+			"key": "item2"
+        }
+    ],
+    "info": {
+        "seed": "1",
+        "results": 20,
+        "page": 1,
+        "version": "1.3"
+    }
+}
