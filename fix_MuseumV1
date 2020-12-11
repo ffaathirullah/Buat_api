@@ -1,0 +1,80 @@
+{
+    "results": [
+        {
+            "name": {
+                "title": "Museum1",
+                "first": "Museum",
+                "last": "Pos Indonesia"
+            },
+            "email": "museum.pos.indonesia",
+            "jam": "08.00 – 17.00 WIB",
+            "picture": {
+                "thumbnail": "https://firebasestorage.googleapis.com/v0/b/travelme-aa9a6.appspot.com/o/Museum%2FMuseum1%2Fm1.jpg?alt=media&token=13f48dee-f732-4d89-a96d-9832d2d9c80f"
+            },
+            "nat": "BR",
+			"key": "item1"
+        },
+           {
+            "name": {
+                "title": "Museum2",
+                "first": "Museum",
+                "last": "Wolff Schoemaker"
+            },
+            "email": "museum.wolff.schoemaker",
+            "jam": "11.00 - 17.00 WIB",
+            "picture": {
+                "thumbnail": "https://firebasestorage.googleapis.com/v0/b/travelme-aa9a6.appspot.com/o/Museum%2FMuseum2%2Fm2.1.jpg?alt=media&token=c8a5940e-d5e2-4e94-9921-94861baef81f"
+            },
+            "nat": "No",
+			"key": "item2"
+      },
+      {
+       "name": {
+           "title": "Museum3",
+           "first": "Situ",
+           "last": "Ciburuy"
+       },
+       "email": "museum.konferensi.asia.afrika",
+       "jam": "09.00 - 16.00 WIB",
+       "picture": {
+           "thumbnail": "https://firebasestorage.googleapis.com/v0/b/travelme-aa9a6.appspot.com/o/Museum%2FMuseum3%2Fm3.1.jpg?alt=media&token=130e6a72-ec53-471c-bcb8-59aac503e9af"
+       },
+       "nat": "No",
+ "key": "item3"
+  },
+  {
+  "name": {
+      "title": "Museum4",
+      "first": "Museum",
+      "last": "Kereta Api"
+  },
+  "email": "museum.kereta.api",
+  "jam": "08.00 - 17.00 WIB",
+  "picture": {
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/travelme-aa9a6.appspot.com/o/Museum%2FMuseum4%2Fm4.1.jpg?alt=media&token=a2a03a37-56f2-4268-845c-81ca73992585"
+  },
+  "nat": "No",
+"key": "item4"
+},
+{
+"name": {
+    "title": "Museum5",
+    "first": "Museum",
+    "last": "Barli"
+},
+"email": "danau.kampung.tulip",
+"jam": "08.00 - 17.00 WIB",
+"picture": {
+    "thumbnail": "https://firebasestorage.googleapis.com/v0/b/travelme-aa9a6.appspot.com/o/Museum%2FMuseum5%2Fm5.1.jpg?alt=media&token=5993d780-c731-4aec-8ce0-41555d25c0b5"
+},
+"nat": "No",
+"key": "item5"
+}
+    ],
+    "info": {
+        "seed": "1",
+        "results": 20,
+        "page": 1,
+        "version": "1.3"
+    }
+}
