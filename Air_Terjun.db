@@ -1,6 +1,17 @@
 {
     "results": [
         {
+            "name": {
+                "title": "Air_Terjun1",
+                "first": "Tangkuban",
+                "last": "Perahu"
+            },
+            "email": "tangkuban.cperahu@example.com",
+            "picture": {
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/42.jpg"
+            },
+        },
+        {
             "gender": "male",
             "name": {
                 "title": "Mr",
