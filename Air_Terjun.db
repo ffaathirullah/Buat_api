@@ -1,11 +1,50 @@
 {
     "results": [
         {
+            "gender": "male",
             "name": {
                 "title": "Mr",
-                "first": "Tangkuban",
-                "last": "Perahu"
+                "first": "Janique",
+                "last": "Costa"
             },
+            "location": {
+                "street": {
+                    "number": 8364,
+                    "name": "Rua Belo Horizonte "
+                },
+                "city": "Araraquara",
+                "state": "Rondônia",
+                "country": "Brazil",
+                "postcode": 12989,
+                "coordinates": {
+                    "latitude": "-74.5614",
+                    "longitude": "-150.0978"
+                },
+                "timezone": {
+                    "offset": "+1:00",
+                    "description": "Brussels, Copenhagen, Madrid, Paris"
+                }
+            },
+            "email": "janique.costa@example.com",
+            "login": {
+                "uuid": "827d20c0-fa56-40aa-a2de-7df6d682d269",
+                "username": "smalltiger544",
+                "password": "brownie",
+                "salt": "7QvzaON4",
+                "md5": "12b90398592831552763936af62cf6e8",
+                "sha1": "3e7edd839bf49ad03b1df58a9f0fe5a354ca24b3",
+                "sha256": "417860b9520d81127a479a785c7886a30de02751f33787a2daa8bca21ac81bed"
+            },
+            "dob": {
+                "date": "1991-08-17T12:17:45.926Z",
+                "age": 29
+            },
+            "registered": {
+                "date": "2019-03-23T12:56:23.958Z",
+                "age": 1
+            },
+            "phone": "(84) 5181-4592",
+            "cell": "(23) 6323-6609",
             "id": {
                 "name": "",
                 "value": null
@@ -13,8 +52,9 @@
             "picture": {
                 "large": "https://randomuser.me/api/portraits/men/42.jpg",
                 "medium": "https://randomuser.me/api/portraits/med/men/42.jpg",
-                "thumbnail": "https://firebasestorage.googleapis.com/v0/b/travelme-aa9a6.appspot.com/o/Air_Terjun1.jpg?alt=media&token=d132c250-3d1b-4ac8-8292-e9a893ebe541"
-            }
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/42.jpg"
+            },
+            "nat": "BR"
         },
         {
             "gender": "male",
