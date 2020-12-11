@@ -52,7 +52,7 @@
             "picture": {
                 "large": "https://randomuser.me/api/portraits/men/42.jpg",
                 "medium": "https://randomuser.me/api/portraits/med/men/42.jpg",
-                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/42.jpg"
+                "thumbnail": "https://firebasestorage.googleapis.com/v0/b/travelme-aa9a6.appspot.com/o/Air_Terjun1.jpg?alt=media&token=d132c250-3d1b-4ac8-8292-e9a893ebe541"
             },
             "nat": "BR"
         },
